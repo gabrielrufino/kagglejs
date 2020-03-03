@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gabrielrufino/kagglejs/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/kagglejs#readme"
+  "homepage": "https://github.com/gabrielrufino/kagglejs#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
 }
